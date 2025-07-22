@@ -205,7 +205,7 @@ const Signup = () => {
             </h1>
             <div className="mb-4 sm:mb-6 w-12 sm:w-16 h-1 bg-gradient-to-r from-indigo-300 to-purple-300 rounded-full"></div>
             <p className="text-lg sm:text-xl text-slate-50 mb-2 font-serif">
-              <span className="bg-gradient-to-r from-indigo-200 to-purple-200 text-transparent bg-clip-text font-semibold">Mohit Kumar</span>
+              <span className="bg-gradient-to-r from-indigo-200 to-purple-200 text-transparent bg-clip-text font-semibold">Virat Dogra</span>
             </p>
             <p className="text-slate-300 text-base sm:text-lg font-serif mb-4 sm:mb-6">Passionate web developer, creating digital experiences</p>
 
